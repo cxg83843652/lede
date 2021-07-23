@@ -1,6 +1,5 @@
 name: Jarvis-OpenWrt-CI
-
-    on:
+on:
       push:
         branches: 
           # master为你需要编译的当前固件的分支
@@ -10,7 +9,7 @@ name: Jarvis-OpenWrt-CI
       # release:
       #   types: [published]
 
-    jobs:
+jobs:
 
       build:
 
