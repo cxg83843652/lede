@@ -214,3 +214,4 @@ name: Jarvis-OpenWrt-CI
             with:
               name: OpenWrt firmware
               path: ./bin/
+              
